@@ -18,7 +18,7 @@
 
 This is a tutorial for developing a ToDo app with Parse Platform. The goal is to give an introduction to and demonstrate the capabilities of Parse Platform by building an example app from scratch.
 
-> ⚠️ This is a work in progress in its early stages. If you would like to contribute to working in this tutorial please take a look at the [project page](https://github.com/orgs/parse-community/projects/11).
+> ⚠️ This is a work in progress in its early stages. If you would like to contribute to developing this tutorial please take a look at [open issues](https://github.com/parse-community/docs-tutorial-todoapp/issues) and the [project page](https://github.com/orgs/parse-community/projects/11) to get started.
 
 ---
 
